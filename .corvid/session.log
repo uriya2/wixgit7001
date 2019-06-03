@@ -1,0 +1,150 @@
+{"message":"Server starting at /home/uriya/workspace/wix-git/site7001","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:18.712Z"}
+{"message":"Watching for file changes at [src]","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:18.717Z"}
+{"message":"Watched path resolved to [/home/uriya/workspace/wix-git/si{"message":"[29389:0603/082928.988149:ERROR:CONSOLE(5566)] \"SyntaxError: Unexpected token C in JSON at position 133872\", source: chrome-devtools://devtools/bundled/shell.js (5566)\n","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:28.989Z"}
+stamp":"2019-06-03T05:29:18.784Z"}
+{"message":"Admin connected","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:18.802Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"warn","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:33.390Z"}
+{"message":"Editor connected","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:33.391Z"}
+{"message":"Site document requested","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:33.448Z"}
+{"message":"code files requested","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:34.837Z"}
+{"message":"Backing up site","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.665Z"}
+{"message":"Updating local code files","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.741Z"}
+{"message":"Ensuring file frontend/site.js","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.743Z"}
+{"message":"Writing file frontend/pages/HOME.c1dmp.js","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.747Z"}
+{"message":"Writing file frontend/site.js","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.749Z"}
+{"message":"Updating local code files done","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.763Z"}
+{"message":"Backing up site complete","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.883Z"}
+{"message":"Updating local site document","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.884Z"}
+{"message":"Deleting file frontend/pages/HOME.c1dmp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.897Z"}
+{"message":"Deleting file frontend/styles/colors.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.897Z"}
+{"message":"Deleting file frontend/styles/fonts.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.898Z"}
+{"message":"Deleting file frontend/styles/theme.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.898Z"}
+{"message":"Deleting file frontend/styles/topLevelStyles.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.899Z"}
+{"message":"Deleting file frontend/site/commonComponents.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.899Z"}
+{"message":"Deleting file frontend/site/siteInfo.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.901Z"}
+{"message":"Deleting file frontend/site/version.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.904Z"}
+{"message":"Deleting file frontend/menus/CUSTOM_MAIN_MENU.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.915Z"}
+{"message":"Writing file frontend/styles/colors.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.932Z"}
+{"message":"Writing file frontend/styles/fonts.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.934Z"}
+{"message":"Writing file frontend/styles/theme.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.935Z"}
+{"message":"Writing file frontend/styles/topLevelStyles.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.936Z"}
+{"message":"Writing file frontend/pages/HOME.c1dmp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.948Z"}
+{"message":"Writing file frontend/menus/CUSTOM_MAIN_MENU.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.949Z"}
+{"message":"Writing file frontend/site/commonComponents.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.952Z"}
+{"message":"Writing file frontend/site/siteInfo.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.952Z"}
+{"message":"Writing file frontend/site/version.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.953Z"}
+{"message":"Writing file .metadata.json","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:36.954Z"}
+{"message":"Updating local site document done","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.075Z"}
+{"message":"Deleting backup","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.093Z"}
+{"message":"Ignoring deleted file at [frontend/pages/HOME.c1dmp.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.104Z"}
+{"message":"Ignoring deleted file at [frontend/styles/colors.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.107Z"}
+{"message":"Ignoring deleted file at [frontend/styles/fonts.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.109Z"}
+{"message":"Ignoring deleted file at [frontend/styles/topLevelStyles.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.110Z"}
+{"message":"Ignoring deleted file at [frontend/styles/theme.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.110Z"}
+{"message":"Ignoring deleted file at [frontend/site/siteInfo.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.111Z"}
+{"message":"Ignoring deleted file at [frontend/site/commonComponents.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.111Z"}
+{"message":"Ignoring deleted file at [frontend/site/version.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.112Z"}
+{"message":"Ignoring deleted file at [frontend/menus/CUSTOM_MAIN_MENU.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.113Z"}
+{"message":"Deleting backup complete","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:37.148Z"}
+{"message":"Ignoring modified file at [frontend/site.js]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:38.775Z"}
+{"message":"Ignoring modified file at [frontend/pages/HOME.c1dmp.js]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:38.850Z"}
+{"message":"Ignoring new file at [frontend/pages/HOME.c1dmp.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.179Z"}
+{"message":"Ignoring new file at [frontend/styles/colors.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.180Z"}
+{"message":"Ignoring new file at [frontend/styles/fonts.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.182Z"}
+{"message":"Ignoring new file at [frontend/styles/theme.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.183Z"}
+{"message":"Ignoring new file at [frontend/styles/topLevelStyles.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.184Z"}
+{"message":"Ignoring new file at [frontend/site/commonComponents.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.185Z"}
+{"message":"Ignoring new file at [frontend/site/siteInfo.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.186Z"}
+{"message":"Ignoring new file at [frontend/site/version.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.187Z"}
+{"message":"Ignoring new file at [frontend/menus/CUSTOM_MAIN_MENU.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:29:39.187Z"}
+{"message":"Backing up site","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.272Z"}
+{"message":"Backing up site complete","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.334Z"}
+{"message":"Updating local site document","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.335Z"}
+{"message":"Deleting file frontend/pages/HOME.c1dmp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.337Z"}
+{"message":"Deleting file frontend/styles/colors.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.338Z"}
+{"message":"Deleting file frontend/styles/fonts.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.338Z"}
+{"message":"Deleting file frontend/styles/theme.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.339Z"}
+{"message":"Deleting file frontend/styles/topLevelStyles.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.339Z"}
+{"message":"Deleting file frontend/site/commonComponents.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.339Z"}
+{"message":"Deleting file frontend/site/siteInfo.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.340Z"}
+{"message":"Deleting file frontend/site/version.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.340Z"}
+{"message":"Deleting file frontend/menus/CUSTOM_MAIN_MENU.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.340Z"}
+{"message":"Writing file frontend/styles/colors.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.347Z"}
+{"message":"Writing file frontend/styles/fonts.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.348Z"}
+{"message":"Writing file frontend/styles/theme.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.349Z"}
+{"message":"Writing file frontend/styles/topLevelStyles.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.350Z"}
+{"message":"Writing file frontend/pages/HOME.c1dmp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.351Z"}
+{"message":"Writing file frontend/pages/page2.xnwrp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.351Z"}
+{"message":"Writing file frontend/pages/page3.qwcgh.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.352Z"}
+{"message":"Writing file frontend/menus/CUSTOM_MAIN_MENU.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.352Z"}
+{"message":"Writing file frontend/site/commonComponents.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.353Z"}
+{"message":"Writing file frontend/site/siteInfo.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.354Z"}
+{"message":"Writing file frontend/site/version.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.354Z"}
+{"message":"Writing file .metadata.json","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.357Z"}
+{"message":"Ensuring file frontend/pages/page2.xnwrp.js","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.405Z"}
+{"message":"Ensuring file frontend/pages/page3.qwcgh.js","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.407Z"}
+{"message":"Updating local site document done","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.415Z"}
+{"message":"Deleting backup","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.416Z"}
+{"message":"Deleting backup complete","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.424Z"}
+{"message":"Updating local code files","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.469Z"}
+{"message":"Ensuring file frontend/site.js","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.470Z"}
+{"message":"Updating local code files done","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:50.476Z"}
+{"message":"Ignoring modified file at [frontend/styles/topLevelStyles.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.434Z"}
+{"message":"Ignoring modified file at [frontend/styles/theme.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.434Z"}
+{"message":"Ignoring modified file at [frontend/styles/colors.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.435Z"}
+{"message":"Ignoring modified file at [frontend/styles/fonts.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.435Z"}
+{"message":"Ignoring modified file at [frontend/site/commonComponents.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.436Z"}
+{"message":"Ignoring modified file at [frontend/site/siteInfo.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.437Z"}
+{"message":"Ignoring modified file at [frontend/menus/CUSTOM_MAIN_MENU.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.439Z"}
+{"message":"Ignoring modified file at [frontend/site/version.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.439Z"}
+{"message":"Ignoring modified file at [frontend/pages/HOME.c1dmp.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.440Z"}
+{"message":"Ignoring new file at [frontend/pages/page2.xnwrp.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.441Z"}
+{"message":"Ignoring new file at [frontend/pages/page3.qwcgh.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.443Z"}
+{"message":"Ignoring new file at [frontend/pages/page2.xnwrp.js]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.443Z"}
+{"message":"Ignoring new file at [frontend/pages/page3.qwcgh.js]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:52.444Z"}
+{"message":"Backing up site","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.024Z"}
+{"message":"Updating local code files","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.040Z"}
+{"message":"Ensuring file frontend/site.js","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.041Z"}
+{"message":"Updating local code files done","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.042Z"}
+{"message":"Backing up site complete","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.078Z"}
+{"message":"Updating local site document","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.081Z"}
+{"message":"Deleting file frontend/pages/HOME.c1dmp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.082Z"}
+{"message":"Deleting file frontend/pages/page2.xnwrp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.082Z"}
+{"message":"Deleting file frontend/pages/page3.qwcgh.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.083Z"}
+{"message":"Deleting file frontend/styles/colors.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.083Z"}
+{"message":"Deleting file frontend/styles/fonts.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.083Z"}
+{"message":"Deleting file frontend/styles/theme.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.084Z"}
+{"message":"Deleting file frontend/styles/topLevelStyles.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.084Z"}
+{"message":"Deleting file frontend/site/commonComponents.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.086Z"}
+{"message":"Deleting file frontend/site/siteInfo.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.086Z"}
+{"message":"Deleting file frontend/site/version.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.086Z"}
+{"message":"Deleting file frontend/menus/CUSTOM_MAIN_MENU.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.087Z"}
+{"message":"Writing file frontend/styles/colors.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.091Z"}
+{"message":"Writing file frontend/styles/fonts.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.092Z"}
+{"message":"Writing file frontend/styles/theme.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.092Z"}
+{"message":"Writing file frontend/styles/topLevelStyles.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.092Z"}
+{"message":"Writing file frontend/pages/HOME.c1dmp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.093Z"}
+{"message":"Writing file frontend/pages/page2.xnwrp.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.093Z"}
+{"message":"Writing file frontend/pages/page3.qwcgh.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.093Z"}
+{"message":"Writing file frontend/menus/CUSTOM_MAIN_MENU.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.093Z"}
+{"message":"Writing file frontend/site/commonComponents.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.094Z"}
+{"message":"Writing file frontend/site/siteInfo.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.094Z"}
+{"message":"Writing file frontend/site/version.wix","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.094Z"}
+{"message":"Writing file .metadata.json","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.095Z"}
+{"message":"Updating local site document done","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.115Z"}
+{"message":"Deleting backup","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.117Z"}
+{"message":"Deleting backup complete","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:55.142Z"}
+{"message":"Ignoring modified file at [frontend/pages/page3.qwcgh.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.152Z"}
+{"message":"Ignoring modified file at [frontend/pages/HOME.c1dmp.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.154Z"}
+{"message":"Ignoring modified file at [frontend/pages/page2.xnwrp.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.157Z"}
+{"message":"Ignoring modified file at [frontend/styles/colors.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.160Z"}
+{"message":"Ignoring modified file at [frontend/styles/fonts.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.162Z"}
+{"message":"Ignoring modified file at [frontend/styles/theme.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.165Z"}
+{"message":"Ignoring modified file at [frontend/site/commonComponents.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.167Z"}
+{"message":"Ignoring modified file at [frontend/styles/topLevelStyles.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.169Z"}
+{"message":"Ignoring modified file at [frontend/site/version.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.170Z"}
+{"message":"Ignoring modified file at [frontend/menus/CUSTOM_MAIN_MENU.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.172Z"}
+{"message":"Ignoring modified file at [frontend/site/siteInfo.wix]","level":"debug","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:31:57.174Z"}
+{"message":"Server closing","level":"info","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:32:45.558Z"}
+{"message":"Editor disconnected","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:32:45.561Z"}
+{"message":"Admin disconnected","level":"verbose","sessionId":"66ae10d8-09d1-4bcb-bb76-34fa2ccc9feb","release":"corvid-cli@0.1.68","timestamp":"2019-06-03T05:32:45.563Z"}
